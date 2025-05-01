@@ -16,4 +16,10 @@ Entre no diretório do projeto:
   cd CRUD_Tarefas
 ```
 
-Para abrir o crud, basta abrir o arquivo *index.html* no seu navegador de preferência:
+Para abrir o projto, basta abrir o arquivo *index.html* no seu navegador de preferência:
+
+```bash
+  index.html
+```
+
+
